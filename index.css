@@ -1,0 +1,63 @@
+body{
+    background-image: url(./netflix\ image\ 12.jpg);
+
+}
+.body,img{
+      
+    margin-left: 100px;
+}
+.form{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.825);
+    padding: 60px;
+    height: 8%;
+   box-sizing: unset;
+    
+    height: max-content;
+}
+.heading{
+    color: white;
+    margin-right: 150px;
+    padding-right: 55px;
+}
+#a{
+    width: 80% ;
+    height: 40px;
+    background-color: rgba(70, 65, 65, 0.36);
+    border-radius: 7px;
+    border-style: solid;
+    color: white;
+    
+}
+#b{
+    width:80% ;
+    height: 40px;
+    background-color: red;
+    border-radius: 7px;
+    color: white;
+}
+#c{
+   margin-right:180px;
+}
+#d{
+    padding-right: 100px;
+
+}
+#e{
+    background-color: rgba(154, 137, 137, 0.414);
+    color: white;
+    width: 80%;
+    height: 30px;
+    border-radius: 7px;
+    
+}
+#bottom{
+    margin-right: 50px; 
+    opacity: 50%;
+    
+
+}
